@@ -1,4 +1,4 @@
-![Banner](6.png)
+![Banner](./6.png)
 
 <div align="center">
 
