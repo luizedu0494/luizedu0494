@@ -16,7 +16,7 @@
 
 Sou um profissional em **transição de carreira** com uma base sólida de **mais de 7 anos de experiência** como **Auxiliar Técnico de Laboratório de Anatomia** no CESMAC. Essa jornada me equipou com habilidades cruciais em **organização, gestão de recursos e, acima de tudo, identificação de problemas reais** no ambiente de trabalho.
 
-Minha paixão por tecnologia me levou a migrar para o desenvolvimento, mas com um foco claro: **utilizar a Inteligência Artificial para criar soluções que transformam realidades**. Não busco apenas escrever código; busco desenvolver **Agentes Inteligentes** que possam otimizar processos, gerar insights e melhorar significativamente a vida de **pessoas e empresas**.
+Minha interesse por tecnologia me levou a migrar para o desenvolvimento, mas com um foco claro: **utilizar a Inteligência Artificial para criar soluções que transformam realidades**. Não busco apenas escrever código; busco desenvolver **Agentes Inteligentes** que possam otimizar processos, gerar insights e melhorar significativamente a vida de **pessoas e empresas**.
 
 O **Cronograma Lab** é a prova viva dessa filosofia. O que começou como uma necessidade de gestão de laboratórios evoluiu para uma **plataforma de Business Intelligence com IA**, demonstrando minha capacidade de unir experiência prática com o poder da tecnologia para resolver desafios complexos.
 
