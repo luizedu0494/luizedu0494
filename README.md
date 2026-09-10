@@ -98,7 +98,7 @@ O **CronoLab** resolveu os desafios diários de agendamento de laboratórios aca
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-eduardo-052385291)
 [![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcurriculoct@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582988841247)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582999931035)
 
 </div>
 
