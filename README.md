@@ -60,23 +60,25 @@ O **CronoLab** é a prova viva dessa filosofia: o que começou como uma demanda 
 
 ---
 
-## <img src="https://api.iconify.design/lucide:star.svg?color=%231E7EC8" width="22" height="22" style="vertical-align: sub;" /> Projeto em Destaque
+## <img src="https://api.iconify.design/lucide:star.svg?color=%231E7EC8" width="22" height="22" style="vertical-align: sub;" /> Principal Projeto de Impacto
 
-### <img src="https://api.iconify.design/lucide:microscope.svg?color=%233ECF8E" width="20" height="20" style="vertical-align: sub;" /> [CronoLab — Sistema Inteligente de Gestão de Laboratórios](https://github.com/luizedu0494/cronograma-lab-frontend)
+### <img src="https://api.iconify.design/lucide:rocket.svg?color=%233ECF8E" width="20" height="20" style="vertical-align: sub;" /> [CronoLab 2.0 — Plataforma de Gestão de Cronogramas Acadêmicos](https://github.com/luizedu0494/cronograma-lab-frontend)
 
-> **"Transformando uma demanda real em uma plataforma web robusta e comercial com Inteligência Artificial."**
+> **"A evolução completa de um sistema real de gestão acadêmica: de um protótipo básico a uma solução web proprietária, segura e resiliente."**
 
-O **CronoLab** resolveu os desafios diários de agendamento de laboratórios acadêmicos, evoluindo para uma plataforma com **notificações nativas**, **validação em tempo real contra choque de horários** e **Assistente de IA integrando Llama 3.3 (Groq API)**.
+O **CronoLab 2.0** representa o ápice da minha visão como desenvolvedor: uma arquitetura moderna construída com **React 19**, **Vite 7**, **Material-UI v7** e **Supabase PostgreSQL**, projetada para resolver a alocação de laboratórios em grandes instituições de ensino com zero atrito e alta disponibilidade.
 
-#### <img src="https://api.iconify.design/lucide:check-circle.svg?color=%233ECF8E" width="16" height="16" style="vertical-align: sub;" /> Destaques da Solução:
-- **Assistente IA Integrado**: Análise preditiva e diagnósticos de ocupação.
-- **Validação Automática**: Impede qualquer agendamento duplicado.
-- **Notificações do Navegador**: Alertas em tempo real no desktop e mobile imunes a adblockers.
-- **Multi-Perfil**: Visitante público, Técnico e Coordenador com controle RLS no Supabase PostgreSQL.
+#### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%233ECF8E" width="18" height="18" style="vertical-align: sub;" /> Principais Evoluções e Melhorias da Versão 2.0:
+- 🔔 **Notificações Nativas do Navegador (Sem Dependência de Servidores Terceiros)**: Notificações em tempo real ativadas diretamente pela API do navegador e alimentadas por **Supabase Realtime WebSockets**, imunes a adblockers e falhas de serviços Push VAPID externos.
+- 🔒 **Modo Visitante com Controle de Acesso Restrito**: Proteção de leitura para acesso público sem login, bloqueando ações de edição e exclusão no calendário, cards e gaveta mobile.
+- 🎓 **Relacionamento Relacional em Lote (`aula_cursos`)**: Suporte a múltiplos cursos por aula com junção dinâmica no PostgreSQL e renderização de tags com cores institucionais atreladas às bancadas.
+- 📝 **Harmonização de Tipos de Atividades (`tipo_atividade`)**: Sincronização em tempo real entre Aulas Normais, Revisões de Conteúdo e Provas / Avaliações, com persistência atômica no banco e limpeza automática de labels residuais.
+- 🤖 **Assistente de Inteligência Artificial Integrado**: Agente analítico alimentado por **LangChain.js** e **Groq API (`llama-3.3-70b-versatile`)** para diagnóstico automático de conflitos de ocupação.
+- 📱 **Interface Mobile Ergonomicamente Redesenhada**: Menus sanfona (`Collapse` inline), gavetas inferiores (`SwipeableDrawer`) e layout 100% responsivo para smarthphones.
 
-[![Ver Repositório](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizedu0494/cronograma-lab-frontend)
-[![Demonstração ao Vivo](https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o_ao_Vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cronogramabd.vercel.app/)
-[![Documentação](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o_README-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/luizedu0494/cronograma-lab-frontend#readme)
+[![Ver Repositório GitHub](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizedu0494/cronograma-lab-frontend)
+[![Demonstração ao Vivo](https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o_CronoLab_2.0-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cronogramabd.vercel.app/)
+[![Documentação Completa](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o_README-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/luizedu0494/cronograma-lab-frontend#readme)
 
 ---
 
