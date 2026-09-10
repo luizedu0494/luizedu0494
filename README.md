@@ -120,8 +120,8 @@ O **CronoLab 2.0** representa o ápice da minha visão como desenvolvedor: uma a
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=luizedu0494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=luizedu0494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=luizedu0494&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizedu0494&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
