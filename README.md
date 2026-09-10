@@ -3,8 +3,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-eduardo-052385291)
+[![Email Pessoal](https://img.shields.io/badge/Email_Pessoal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcurriculoct@gmail.com)
+[![Email Institucional](https://img.shields.io/badge/Email_Institucional-003366?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:luis.lopes@cesmac.edu.br)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizedu0494)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcurriculoct@gmail.com)
 
 📍 Maceió, Alagoas | <img src="https://api.iconify.design/lucide:bot.svg?color=%231E7EC8" width="16" height="16" style="vertical-align: sub;" /> **Desenvolvedor de Agentes & Inteligência Artificial** • **React** • **Python**
 
@@ -16,7 +17,7 @@
 
 > [!NOTE]
 > **VIVÊNCIA PRÁTICA + TECNOLOGIA APLICADA**  
-> Sou um profissional em transição de carreira com uma base sólida de **mais de 7 anos de experiência** como **Auxiliar Técnico de Laboratório de Anatomia** no Centro Universitário CESMAC. Essa jornada me equipou com habilidades cruciais em organização, logística acadêmica e resolução de problemas reais no ambiente de trabalho.
+> Sou um profissional em transição de carreira com uma base sólida de **mais de 7 anos de experiência** como **Auxiliar Técnico de Laboratório de Anatomia** no Centro Universitário CESMAC (`luis.lopes@cesmac.edu.br`). Essa jornada me equipou com habilidades cruciais em organização, logística acadêmica e resolução de problemas reais no ambiente de trabalho.
 
 Meu foco é utilizar a **Inteligência Artificial** para criar soluções autônomas e inteligentes que transformam rotinas. Não busco apenas escrever código, mas desenvolver **Agentes de IA** que otimizam processos, eliminam retrabalho e geram valor real para instituições e empresas.
 
@@ -99,7 +100,8 @@ O **CronoLab 2.0** representa o ápice da minha visão como desenvolvedor: uma a
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-eduardo-052385291)
-[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcurriculoct@gmail.com)
+[![Email Pessoal](https://img.shields.io/badge/Email_Pessoal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcurriculoct@gmail.com)
+[![Email Institucional](https://img.shields.io/badge/Email_Institucional-003366?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:luis.lopes@cesmac.edu.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582999931035)
 
 </div>
@@ -118,8 +120,8 @@ O **CronoLab 2.0** representa o ápice da minha visão como desenvolvedor: uma a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizedu0494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=luizedu0494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizedu0494&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=luizedu0494&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
